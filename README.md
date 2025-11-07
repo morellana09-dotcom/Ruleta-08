@@ -1,0 +1,1 @@
+Evidencia de la iteracion 08 de la ruleta con fecha del dia viernes 07-11-2025, lo subo el dia de hoy para que quede constancia del avanze actual (mi objetivo es subir de aqui al dia miercoles ramas con las iteracciones de la ruleta 1 por 1)
